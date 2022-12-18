@@ -34,9 +34,9 @@ p {
 
 
 /* NavBar */
+
 .navbar {
-  padding: 0 10%;
-  background: linear-gradient(#fff, #DC3535);
+  padding-bottom: 7%;
 }
 
 .navbar-brand {
@@ -51,14 +51,15 @@ p {
   padding: 0 18px;
 }
 
-.peking-logo {
+/* .peking-logo {
   width: 5rem;
-}
+} */
 
 /* title section */
 
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 .download-button {
@@ -69,7 +70,7 @@ p {
   width: 300px;
   transform: rotate(25deg);
   position: absolute;
-  right: 20%;
+  right: 25%;
 }
 
 /* features section */
